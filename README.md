@@ -145,13 +145,6 @@ streamlit run ui/app.py
 
 ---
 
-🤝 Contributing
-
-Pull Requests are welcome.
-For major changes, open an issue first to discuss what you would like to change.
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome.  
