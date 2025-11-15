@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+pandas = "*"
+uvicorn = "*"
+celery = "*"
+redis = "*"
+dask = "*"
+dotenv = "*"
+requests = "*"
+huggingface-hub = "*"
+streamlit = "*"
+gdown = "*"
+chardet = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
